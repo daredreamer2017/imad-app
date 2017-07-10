@@ -6,8 +6,7 @@ body {
 
 .center {
     text-align: center;
-    border-radius:1000px;
-}
+   
 
 .text-big {
     font-size: 300%;
@@ -19,5 +18,7 @@ body {
 
 .img-medium {
     height: 400px;
+     border-radius:30px;
+
 }
 
