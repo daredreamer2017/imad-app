@@ -7,5 +7,5 @@ element.innerHTML = "Text has gone";
 //Moving image
 var image = document.getElementById('main-img');
 image.onClick =function(){
-  image.style.marginRight = "100px";  
+  image.style.marginright = "100px";  
 };
