@@ -3,3 +3,9 @@ console.log('Loaded!');
 var element = document.getElementById('main');
 element;
 element.innerHTML = "Text has gone";
+
+//Moving image
+var image = document.getElementById('main-img');
+image.onClick =function(){
+  image.style.marginRight = "100px";  
+};
