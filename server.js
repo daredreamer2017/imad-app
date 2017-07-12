@@ -21,12 +21,7 @@ var articles = {
  Company for the Financial Year 2015-16 was Rs.4,137 crore compared to
  net profit after tax of Rs. 2,093 crore in the previous Financial Year.<br>
  <br>
- The performance of the Company during the year was adversely affected
- due to lower Net Sales Realisation, lower saleable steel production,
- adverse financial impact of on account of contribution to District
- Mineral Foundation and National Mineral Exploration Trust w.e.f. 12th
- January, 2015, higher usage of relatively expensive imported coal in
- the blend due to lower availability of indigenous coal, higher salaries
+oal, higher salaries
  & wages, higher repairs & maintenance expenditure, higher interest
  charges and reduction in interest earnings on term deposits, higher
  depreciation due to capitalisation of new facilities and
@@ -34,26 +29,7 @@ var articles = {
  Limited considered in the previous financial year. However, the adverse
  factors have been partially offset by higher sales volume and lower
  imported & indigenous coal prices, reduction in coke rate, reduction in
- demurrage expenses, reduction in price of ferro alloys, etc.<br><br>
- 
- SAIL continued its thrust on optimum utilisation of funds by better
- fund management. This included replacement of high cost short term
- loans with low cost debts, timely repayment of loans including
- interest, strategic parking of surplus funds with scheduled banks,
- advance actions for future fund raising, etc. to meet our growth
- objectives. Further, the Company hedged the foreign currency risk on
- Buyer''s Credit depending on market conditions. The Company had
- borrowings of Rs.33,217 crore as on 31st March 2016. The debt equity
- ratio of the Company increased to 0.85:1as on 31st March 2016 from
- 0.69:1 as on 31st March 2015 due to increase in borrowings as well as
- reduction in net worth during the year. The net worth of Company
- declined from Rs.43,505 crore as on 31st March 2015 to Rs.39,281 crore
- as on 31st March 2016.
- <br><br>
- M/s India Ratings & Research Pvt. Ltd., M/s CARE and M/s Brickwork
- Ratings, RBI approved credit rating agencies, assigned ''IND AA Negative
- Outlook'', ''AA '' and ''BWR AA  outlook stable'' ratings respectively for
- SAIL''s long term-borrowing programme.<br>
+ demurrage expenses, reduction in price of ferro alloys, etc.<br>
 </p>
 `
 },
@@ -71,42 +47,7 @@ var articles = {
  been an increase in price realisation after imposition of Minimum
  Import Price(MIP) w.e.f. 5th February, 2016. The loss after tax of your
  Company for the Financial Year 2015-16 was Rs.4,137 crore compared to
- net profit after tax of Rs. 2,093 crore in the previous Financial Year.<br>
- <br>
- The performance of the Company during the year was adversely affected
- due to lower Net Sales Realisation, lower saleable steel production,
- adverse financial impact of on account of contribution to District
- Mineral Foundation and National Mineral Exploration Trust w.e.f. 12th
- January, 2015, higher usage of relatively expensive imported coal in
- the blend due to lower availability of indigenous coal, higher salaries
- & wages, higher repairs & maintenance expenditure, higher interest
- charges and reduction in interest earnings on term deposits, higher
- depreciation due to capitalisation of new facilities and
- non-availability of gain on sale of investment in Bokaro Jaypee Cement
- Limited considered in the previous financial year. However, the adverse
- factors have been partially offset by higher sales volume and lower
- imported & indigenous coal prices, reduction in coke rate, reduction in
- demurrage expenses, reduction in price of ferro alloys, etc.<br><br>
- 
- SAIL continued its thrust on optimum utilisation of funds by better
- fund management. This included replacement of high cost short term
- loans with low cost debts, timely repayment of loans including
- interest, strategic parking of surplus funds with scheduled banks,
- advance actions for future fund raising, etc. to meet our growth
- objectives. Further, the Company hedged the foreign currency risk on
- Buyer''s Credit depending on market conditions. The Company had
- borrowings of Rs.33,217 crore as on 31st March 2016. The debt equity
- ratio of the Company increased to 0.85:1as on 31st March 2016 from
- 0.69:1 as on 31st March 2015 due to increase in borrowings as well as
- reduction in net worth during the year. The net worth of Company
- declined from Rs.43,505 crore as on 31st March 2015 to Rs.39,281 crore
- as on 31st March 2016.
- <br><br>
- M/s India Ratings & Research Pvt. Ltd., M/s CARE and M/s Brickwork
- Ratings, RBI approved credit rating agencies, assigned ''IND AA Negative
- Outlook'', ''AA '' and ''BWR AA  outlook stable'' ratings respectively for
- SAIL''s long term-borrowing programme.<br>
-</p>
+ net profit after tax of Rs. 2,093 </p>
 `,
 },
 "article-three":
@@ -125,40 +66,7 @@ var articles = {
  Import Price(MIP) w.e.f. 5th February, 2016. The loss after tax of your
  Company for the Financial Year 2015-16 was Rs.4,137 crore compared to
  net profit after tax of Rs. 2,093 crore in the previous Financial Year.<br>
- <br>
- The performance of the Company during the year was adversely affected
- due to lower Net Sales Realisation, lower saleable steel production,
- adverse financial impact of on account of contribution to District
- Mineral Foundation and National Mineral Exploration Trust w.e.f. 12th
- January, 2015, higher usage of relatively expensive imported coal in
- the blend due to lower availability of indigenous coal, higher salaries
- & wages, higher repairs & maintenance expenditure, higher interest
- charges and reduction in interest earnings on term deposits, higher
- depreciation due to capitalisation of new facilities and
- non-availability of gain on sale of investment in Bokaro Jaypee Cement
- Limited considered in the previous financial year. However, the adverse
- factors have been partially offset by higher sales volume and lower
- imported & indigenous coal prices, reduction in coke rate, reduction in
- demurrage expenses, reduction in price of ferro alloys, etc.<br><br>
  
- SAIL continued its thrust on optimum utilisation of funds by better
- fund management. This included replacement of high cost short term
- loans with low cost debts, timely repayment of loans including
- interest, strategic parking of surplus funds with scheduled banks,
- advance actions for future fund raising, etc. to meet our growth
- objectives. Further, the Company hedged the foreign currency risk on
- Buyer''s Credit depending on market conditions. The Company had
- borrowings of Rs.33,217 crore as on 31st March 2016. The debt equity
- ratio of the Company increased to 0.85:1as on 31st March 2016 from
- 0.69:1 as on 31st March 2015 due to increase in borrowings as well as
- reduction in net worth during the year. The net worth of Company
- declined from Rs.43,505 crore as on 31st March 2015 to Rs.39,281 crore
- as on 31st March 2016.
- <br><br>
- M/s India Ratings & Research Pvt. Ltd., M/s CARE and M/s Brickwork
- Ratings, RBI approved credit rating agencies, assigned ''IND AA Negative
- Outlook'', ''AA '' and ''BWR AA  outlook stable'' ratings respectively for
- SAIL''s long term-borrowing programme.<br>
 </p>
 `
 }
@@ -209,7 +117,7 @@ app.get('/', function (req, res) {
 });
 app.get('/:articleName', function (req, res) {
   var articleName = req.params.articleName
-res.send(createTemplate[articleName])
+res.send(createTemplate(articles[articleName]))
 });
 
 
