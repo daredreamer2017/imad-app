@@ -7,6 +7,6 @@ element.innerHTML = "Text has gone";
 //Moving image
 var image = document.getElementById('madi');
 image.onClick = function(){
-  image.style.marginLeftt = '100px';  
+  image.style.marginLeft = '100px';  
 };
 image;
